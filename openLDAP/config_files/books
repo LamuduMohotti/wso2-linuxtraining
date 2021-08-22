@@ -1,0 +1,23 @@
+dn: documentIdentifier=1001,ou=books,dc=ltacademy,dc=com
+objectclass: document
+cn: Data Smart
+documentPublisher: Willey
+documentIdentifier: 1001
+
+dn: documentIdentifier=1002,ou=books,dc=ltacademy,dc=com
+objectclass: document
+cn: God Created the Integers
+documentPublisher: Penguin
+documentIdentifier: 1002
+
+dn: documentIdentifier=1004,ou=books,dc=ltacademy,dc=com
+objectclass: document
+cn: Orientalism
+documentPublisher: Penguin
+documentIdentifier: 1004
+
+dn: documentIdentifier=1003,ou=books,dc=ltacademy,dc=com
+objectclass: document
+cn: Superfreakonomics
+documentPublisher: HarperCollins
+documentIdentifier: 1003

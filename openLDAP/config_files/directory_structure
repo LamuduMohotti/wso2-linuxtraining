@@ -1,0 +1,14 @@
+dn: ou=users,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: users
+description: user info
+
+dn: ou=books,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: books
+description: book info
+
+dn: ou=system,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: system
+description: system info

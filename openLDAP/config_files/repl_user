@@ -1,0 +1,6 @@
+dn: cn=replicationuser,ou=system,dc=ltacademy,dc=com
+objectclass: simpleSecurityObject
+objectclass: person
+cn: replicationuser
+sn: ruser
+userPassword: {SSHA}t14jd4Dm9zCZg8XvINandOplpnmxQLDl

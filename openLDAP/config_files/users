@@ -1,0 +1,74 @@
+dn: uid=Owen,ou=users,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: organizationalPerson
+cn: Owen
+sn: Hudson
+mail: owen.hudson@lt.com
+mobile: 94771111111
+homePhone: 940112820001
+postalAddress: London
+employeeType: permanent
+userPassword: {SSHA}XlG7tjua+tLzBXyNfY4dBPbn4AyszRAC
+
+dn: uid=Rachel,ou=users,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: organizationalPerson
+cn: Rachel
+sn: Burgess
+mail: rachel.burgess@lt.com
+mobile: 94771111112
+homePhone: 940112820002
+postalAddress: London
+employeeType: permanent
+userPassword: {SSHA}H24OvkUFxPxTkoZLjpQsPUEWBJPtdrBZ
+
+dn: uid=Grace,ou=users,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: organizationalPerson
+cn: Grace
+sn: Lee
+mail: grace.lee@lt.com
+mobile: 94771111125
+homePhone: 940112820015
+postalAddress: Berlin
+employeeType: permanent
+userPassword: {SSHA}u4govbjLfVG4eKukF9KF2f4KF3xpz5T3
+
+dn: uid=Andrew,ou=users,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: organizationalPerson
+cn: Andrew
+sn: Oliver
+mail: adrew.oliver@lt.com
+mobile: 94771111126
+homePhone: 940112820016
+postalAddress: Berlin
+employeeType: permanent
+userPassword: {SSHA}aRcMvGPPQbuXrUGgGNKqrlEPLBtMRDM8
+
+dn: uid=Jane,ou=users,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: organizationalPerson
+cn: Jane
+sn: Forsyth
+mail: jane.forsyth@lt.com
+mobile: 94771111150
+homePhone: 940112820040
+postalAddress: New York
+employeeType: contractor
+userPassword: {SSHA}WzTLMQm10mQZt0QbeDOBpZbQAZbYb/ee
+
+dn: uid=Paul,ou=users,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: organizationalPerson
+cn: Paul
+sn: Black
+mail: paul.black@lt.com
+mobile: 94771111152
+homePhone: 9401128200042
+postalAddress: New York
+employeeType: contractor
+userPassword: {SSHA}Oe7drthD62vNIvzMOKXA29p0WBq5nq1z
+
+
+
